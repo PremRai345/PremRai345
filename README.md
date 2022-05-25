@@ -28,6 +28,7 @@
 <a href="https://stackoverflow.com/users/14084137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14084137" height="30" width="40" /></a>
 <a href="https://kaggle.com/premkumarrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="premkumarrai" height="30" width="40" /></a>
 <a href="https://fb.com/premkumarraee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="premkumarraee" height="30" width="40" /></a>
+<a href="https://instagram.com/prem_kulung_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem kumar rai" height="30" width="40" /></a>
 <a href="https://medium.com/@premkumarrai738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@premkumarrai738" height="30" width="40" /></a>
 </p>
 
@@ -44,6 +45,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premrai345" alt="premrai345" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="premrai" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/premrai/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="premrai" /></a></p><br><br>
 
 
