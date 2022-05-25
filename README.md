@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar Rai</h1>
 <h3 align="center">A passionate flutter app developer</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="end" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premrai345&label=Profile%20views&color=0e75b6&style=flat" alt="premrai345" /> </p>
 
@@ -38,8 +38,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/premrai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="premrai" /></a></p><br></br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premrai345&show_icons=true&locale=en&layout=compact" alt="premrai345" /></p>
+<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=premrai345&show_icons=true&locale=en&layout=compact" alt="premrai345" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=premrai345&show_icons=true&locale=en" alt="premrai345" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premrai345&show_icons=true&locale=en" alt="premrai345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premrai345&" alt="premrai345" /></p>
