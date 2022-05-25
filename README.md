@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar Rai</h1>
 <h3 align="center">A passionate flutter app developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premrai345&label=Profile%20views&color=0e75b6&style=flat" alt="premrai345" /><img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=premrai345&label=Profile%20views&color=0e75b6&style=flat" alt="premrai345"  <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premrai345" alt="premrai345" /></a> </p>
 
