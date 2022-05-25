@@ -28,8 +28,6 @@
 <a href="https://stackoverflow.com/users/14084137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14084137" height="30" width="40" /></a>
 <a href="https://kaggle.com/premkumarrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="premkumarrai" height="30" width="40" /></a>
 <a href="https://fb.com/premkumarraee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="premkumarraee" height="30" width="40" /></a>
-<a href="https://instagram.com/prem_kulung_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem kumar rai" height="30" width="40" /></a>
-
 <a href="https://medium.com/@premkumarrai738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@premkumarrai738" height="30" width="40" /></a>
 </p>
 
