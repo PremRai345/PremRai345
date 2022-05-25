@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar Rai</h1>
 <h3 align="center">A passionate flutter app developer</h3>
-<img align="end" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height=""200 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premrai345&label=Profile%20views&color=0e75b6&style=flat" alt="premrai345" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premrai345" alt="premrai345" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/premkumarrai75" target="blank"><img src="https://img.shields.io/twitter/follow/premkumarrai75?logo=twitter&style=for-the-badge" alt="premkumarrai75" /></a> </p>
 
@@ -42,6 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premrai345&show_icons=true&locale=en" alt="premrai345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premrai345&" alt="premrai345" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premrai345" alt="premrai345" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/premrai "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/premrai " /></a></p><br><br>
